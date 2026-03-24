@@ -32,8 +32,6 @@ Model achieved MAE ≈ 4.18
 Example prediction:
 Study Hours: 9.25
 Predicted Score: ~93.7%
-📷 Visualization
-
 
 💡 Key Learnings
 Understanding regression modeling
